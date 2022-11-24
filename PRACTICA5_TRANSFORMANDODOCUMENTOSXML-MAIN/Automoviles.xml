@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/prueb/OneDrive/Escritorio/PRCTS_SERWEB/XML/Practica5/Celulares.xsl"?>
+<Automoviles>
+<Vehiculos>
+<modelo>BMW i8 Roadster</modelo>
+<costo>$ 1,345,000.00</costo>
+</Vehiculos>
+<Vehiculos>
+<modelo>Porsche 718 Cayman GT4</modelo>
+<costo>$2,155,500.00</costo>
+</Vehiculos>
+<Vehiculos>
+<modelo>Mercedes-AMG GT4</modelo>
+<costo>$22,500</costo>
+</Vehiculos>
+</Automoviles>
